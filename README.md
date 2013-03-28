@@ -17,4 +17,5 @@ There is a limit to what can be done with the digits 0-9 and A-F but that limita
 plenty of interesting fingerprints to have.
 
 Like: 8B:AD:F0:0D...  (Ate Bad Food) OR
+
       FA:CE:B0:OC...  (FACEBOOK)
